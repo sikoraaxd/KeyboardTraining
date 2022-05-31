@@ -1,0 +1,6 @@
+﻿  Key.cpp
+  Source.cpp
+D:\Edu\2 kurs\KeyboardTraining\KeyboardTraining\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+sfml-main-d.lib(MainWin32.cpp.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции WinMain.
+D:\Edu\2 kurs\KeyboardTraining\x64\Debug\KeyboardTraining.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
